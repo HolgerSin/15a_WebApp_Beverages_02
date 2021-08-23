@@ -1,3 +1,5 @@
-# 14_WebApp_Beverages_02
+# Webapp_Beverages_2
+Version mit DOM-Manipulationen
 
-WebApp mit zusätzlichen DOM-Befehlen
+--> Anzeigen mehrerer Bilder
+--> Anzeigen Getränke-Optionen als Txt
